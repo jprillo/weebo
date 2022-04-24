@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-main-pages-js",
+    "path": "/about/",
+    "result": {"data":{"markdownRemark":{"html":"<!--StartFragment-->\n<p>WEEBO is a Gatsby Starter Blog </br>\nWEEBO uses Netlify CMS, Markdown, and GraphQL to handle content. </br>\nWEEBO loves pasta. </br>\nWEEBO just woke up at your mom's house. </br>\nWEEBO went home in your favorite shirt.  </br>\nWEEBO is why you are out of cornflakes.</br>\nWEEBO is watching you now. </br></p>\n<!--EndFragment-->","frontmatter":{"title":"ABOUT"}}},"pageContext":{"slug":"/about/"}},
+    "staticQueryHashes": []}
